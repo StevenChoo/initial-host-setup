@@ -6,7 +6,7 @@ A script that runs an initial setup script for Debian based installation.
 
 Using curl to run:
 ```bash
-
+curl -L https://raw.githubusercontent.com/StevenChoo/initial-host-setup/master/initial-setup.sh | bash
 ```
 
 Using docker to test
